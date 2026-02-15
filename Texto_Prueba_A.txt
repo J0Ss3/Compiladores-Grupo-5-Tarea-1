@@ -1,0 +1,2 @@
+formato_corto = 26-01-01
+formato_largo = miercoles, 15 de enero de 2025

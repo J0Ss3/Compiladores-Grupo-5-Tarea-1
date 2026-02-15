@@ -19,7 +19,7 @@ def mostrar_menu():
     print("  A. Validar formatos de fecha (corto y largo)")
     print("  B. Reemplazar palabras en texto")
     print("  C. Extraer archivos por extensión")
-    print("  D. Validar nombre de usuario")
+    print("  D. Validar nombre de usuarioA")
     print("  E. Validar si una contraseña es segura")
     print()
     print("  X. Salir del programa")
