@@ -1,6 +1,6 @@
 """"
-d.Extraer los nombres de archivos de un tipo de formato en una ruta de
-directorio, por ejemplo: C:\Documentos, archivos txt.
+d.Validar un nombre de usuario que debe tener entre 8 y 12 caracteres 
+y solo puede contener letras, números, guiones bajos o guiones alto.  
 """
 
 import re
