@@ -32,4 +32,3 @@ def c():
         print(f"Ocurrió un error inesperado: {e}")
 
 
-c()

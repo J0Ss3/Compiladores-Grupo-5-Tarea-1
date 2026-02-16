@@ -46,5 +46,3 @@ def e():
             except Exception as e_input:
                 print(f"Ocurrió un error inesperado: {e_input}")
 
-# LLamar la funcion e()
-e()

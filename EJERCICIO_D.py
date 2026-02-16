@@ -17,5 +17,3 @@ def d():
         print(arreglo_usuarios)
     else:
         print("No se encontró ningun usuario valido.")
-
-d()
