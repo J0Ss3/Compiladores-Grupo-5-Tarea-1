@@ -6,7 +6,7 @@ y solo puede contener letras, números, guiones bajos o guiones alto.
 import re
 
 def d():
-    lista_usuarios = "CaroRod12, cAmpo82, hola-1234, astroNauta0, FuenTe_roja, Estudiante789, 12345, Mostaza_07, Barco_azul5, aleMeza"
+    lista_usuarios = "fadf, cAmpo82, hola-1234, astroNauta0, FuenTe_roja, Estudiante789, 12345, Mostaza_07, Barco_azul5, aleMeza"
 
     expresion = r"\b[a-zA-Z0-9_-]{8,12}\b"
 
